@@ -101,20 +101,11 @@ Currently exploring **Machine Learning, Agentic AI, and modern software engineer
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=tayife&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Tayife GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tayife&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Tayife Top Languages"
-  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tayife&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tayife&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
