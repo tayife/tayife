@@ -101,12 +101,6 @@ Currently exploring **Machine Learning, Agentic AI, and modern software engineer
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tayife&show_icons=true&theme=transparent&hide_border=true" />
-</p>
----
 
 ## 🌎 Connect
 
