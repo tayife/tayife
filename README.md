@@ -1,7 +1,7 @@
 # 👨‍💻 Tayife
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=BTEC+IT+Student;Python+Developer;AI+%26+ML+Explorer;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=BTECH+IT+Student;Python+Developer;AI+%26+ML+Explorer;Future+Software+Engineer" />
 </p>
 
 <p align="center">
